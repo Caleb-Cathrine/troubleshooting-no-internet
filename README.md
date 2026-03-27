@@ -5,4 +5,4 @@ Case study documenting steps to resolve a Windows no‑internet connectivity iss
 Case study documenting steps to resolve a Windows no‑internet connectivity issue.
 
 ## Download Full Report
-[NoInternetTroubleshooting.docx](NoInternetTroubleshooting.docx.docx)
+[NoInternetTroubleshooting.docx](NoInternetTroubleshooting.docx)
